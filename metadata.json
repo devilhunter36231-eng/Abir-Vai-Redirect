@@ -1,0 +1,6 @@
+{
+  "name": "Live Video Stream Hub",
+  "description": "Interactive video streaming landing page with live player, video thumbnails, incoming call card, and live notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
